@@ -3,7 +3,8 @@
 
 using namespace std;
 
-int C, N;
+int C;
+int N;
 int arr[100][100];
 int cache[100][100];
 
